@@ -4,3 +4,5 @@
  -To use Those Methods you need to Create An Account First Which will Give You an Account Number 
  -And You can Try Other Methods Using That Account Number
  -And You Need to install Mysql-connector For Python 
+ -Also You'd need a Mysql Local Server In Your System 
+ 
